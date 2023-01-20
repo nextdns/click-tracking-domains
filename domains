@@ -437,6 +437,7 @@ tag.getdrip.com
 tag.shopping-feed.com
 tags.adsafety.net
 tags.news.com.au
+target.clickfunnels.com # CNAME of demo.seamless.ai
 target.georiot.com
 tc.tradetracker.net # https://github.com/nextdns/metadata/pull/1095
 the-home-depot-ca.pxf.io
