@@ -2,8 +2,10 @@
 
 7eer.net
 action.metaffiliation.com
+action.metaffiliation.com # CNAME of xht.micromania.fr
 ad.atdmt.com
 ad.doubleclick.net
+ad.dyntracker.de # https://github.com/nextdns/click-tracking-domains/pull/7
 adclick.g.doubleclick.net
 adservice.google.ac
 adservice.google.ad
@@ -317,12 +319,12 @@ ct.klclick.com # Klaviyo email & sms marketing SaaS click-thru links (Klaviyo.co
 ct.sendgrid.net
 cts.businesswire.com
 custom.bnc.lt # CNAME of link.swa.info
-action.metaffiliation.com # CNAME of xht.micromania.fr
 customlinks.appsflyer.com # CNAME of click.snapshat.com
 customtraffic.impactradius.com # CNAME of goto.target.com
 cz-go.kelkoogroup.net
 dart.l.doubleclick.net # CNAME of ad.doubleclick.net
 dashboard-01.braze.com
+de-go.kelkoogroup.net
 dk-go.kelkoogroup.net
 dpbolvw.net
 ea.galerieslafayette.com
@@ -370,6 +372,8 @@ links.mkt71.net # Click link CNAME for acoustic marketing platform
 links.mkt81.net # Click link CNAME for acoustic marketing platform
 links.mkt91.net # Click link CNAME for acoustic marketing platform
 list-manage.com
+m.exactag.com # https://github.com/nextdns/click-tracking-domains/pull/8
+media01.eu # https://github.com/nextdns/click-tracking-domains/pull/10
 mktoweb.com # Adobe MarkeTo landing page CNAME target
 mmtro.com
 monitor.clickcease.com
@@ -384,6 +388,7 @@ online.adservicemedia.dk
 online.digital-advisor.com
 open.spotify.com
 pagead.l.doubleclick.net # CNAME of www.googleadservices.com
+pdt.tradedoubler.com
 pepperjamnetwork.com
 pi.pardot.com # CNAME of go.pardot.com
 pixel.everesttech.net
@@ -401,12 +406,14 @@ pt-go.kelkoogroup.net
 qksrv.net
 r20.rs6.net
 rd.bizrate.com # CNAME of link.sylikes.com
+rd2szde.bizrate.com # https://github.com/nextdns/click-tracking-domains/pull/6
 rebrandlydomain.com # CNAME of go.blokada.org
 redir.tradedoubler.com
 redirect.appmetrica.yandex.com # https://github.com/nextdns/metadata/pull/745
 redirect.appmetrica.yandex.ru # https://github.com/nextdns/metadata/pull/745
 redirect.at
 redirect.viglink.com
+redirects.tradedoubler.com
 ro-go.kelkoogroup.net
 ru-go.kelkoogroup.net
 s.click.aliexpress.com
@@ -438,12 +445,16 @@ tkqlhce.com
 track.customer.io # CNAME of email.namebase.io
 track.effiliation.com
 track.seadform.net
+track.shoparize.com # https://github.com/nextdns/click-tracking-domains/pull/5
 track.webgains.com
 trackcmp.net
 tracker.marinsm.com
 tracking.publicidees.com
+tracking.s24.com # https://github.com/nextdns/click-tracking-domains/pull/4
 trk.klclick.com
 trk.klclick1.com
+trk.klclick2.com
+trk.klclick3.com
 ue.flipboard.com # flipboard newsletter unsubscribe link
 uk-go.kelkoogroup.net
 us-go.kelkoogroup.net
