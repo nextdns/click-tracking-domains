@@ -5,8 +5,6 @@ action.metaffiliation.com
 ad.atdmt.com
 ad.doubleclick.net
 adclick.g.doubleclick.net
-adfoc.us
-adj.st
 adservice.google.ac
 adservice.google.ad
 adservice.google.ae
@@ -351,7 +349,6 @@ go2jump.org
 gopjn.com
 gr-go.kelkoogroup.net
 guce.advertising.com # techcrunch.com redirects to guce.advertising.com then back to techcrunch.com (2020-07-11)
-href.li
 hs.eloqua.com # Oracle Eloqua landing page CNAME target
 hu-go.kelkoogroup.net
 hubspotemail.net
@@ -426,7 +423,6 @@ solutions.tradedoubler.com
 suite15.emarsys.net # CNAME of link.wizzair.com
 syndication.exosrv.com
 syndication.realsrv.com
-t.co
 t.dripemail2.com
 t.myvisualiq.net
 t23.intelliad.de
