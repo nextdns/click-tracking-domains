@@ -271,6 +271,7 @@ ch0p.darty.com
 cj.com
 cj.dotomi.com
 cl.exct.net
+cj.mplxtms.com
 clck.yandex.ru
 click.chp.kohls.com # Kohls.com click-thru links
 click.cptrack.de
@@ -442,6 +443,7 @@ tc.tradetracker.net # https://github.com/nextdns/metadata/pull/1095
 the-home-depot-ca.pxf.io
 thirdparty.bnc.lt # CNAME of app.sephora.com
 tkqlhce.com
+track.cj.akadns.net # CNAME of cj.dotomi.com, cj.mplxtms.com, www.kqzyfj.com, www.dpbolvw.net and more
 track.customer.io # CNAME of email.namebase.io
 track.effiliation.com
 track.seadform.net
