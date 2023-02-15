@@ -7,6 +7,7 @@ ad.atdmt.com
 ad.doubleclick.net
 ad.dyntracker.de # https://github.com/nextdns/click-tracking-domains/pull/7
 adclick.g.doubleclick.net
+adorama.rfvk.net # https://github.com/hagezi/dns-blocklists/issues/349
 adservice.google.ac
 adservice.google.ad
 adservice.google.ae
@@ -387,6 +388,7 @@ online.adservicemedia.dk
 online.digital-advisor.com
 open.spotify.com
 pagead.l.doubleclick.net # CNAME of www.googleadservices.com
+partners3.stacksocial.com # https://github.com/hagezi/dns-blocklists/issues/349
 pdt.tradedoubler.com
 pepperjamnetwork.com
 pi.pardot.com # CNAME of go.pardot.com
@@ -417,6 +419,7 @@ ro-go.kelkoogroup.net
 ru-go.kelkoogroup.net
 s.click.aliexpress.com
 sailthru.com
+shop-links.co # https://github.com/hagezi/dns-blocklists/issues/349
 se-go.kelkoogroup.net
 shareasale.com
 sites.hscoscdn10.net # Click link CNAME for hubspot marketing platform
